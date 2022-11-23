@@ -31,7 +31,7 @@
 		padding: 0 0 1em 0;
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 400;
-		color: #113f67;
+		color: #071e3d;
 	}
 	
 	h2
@@ -226,7 +226,7 @@
 	{
 		display: inline-block;
 		margin-top: 1.50em;
-		background: #65c6c4;
+		background: #21e6c1;
 		border-radius: 5px;
 		border: 1px solid #292525;
 		box-shadow: 0px 1px 5px rgba(0,0,0,.4);
@@ -255,7 +255,7 @@
 		display: inline-block;
 		padding: 0.75em 2.00em;
 		border-radius: 5px;
-		box-shadow: inset 1px 1px 1px #65c6c4;
+		box-shadow: inset 1px 1px 1px #bcdbdf;
 	}
 
 /* Header Wrapper */
@@ -266,7 +266,7 @@
 		height: 8em;
 		margin-bottom: 3em;
 		padding-top: 2.75em;
-		background: #408ab4;
+		background: #278ea5;
 		box-shadow: inset 0 -10px 20px -10px rgba(0,0,0,.30);
 	}
 
